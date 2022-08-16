@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+h1
+{
+	text-align: center;
+}
+.head{
+	text-align: center;
+	background-color: #f9f9f9;
+}
+
+.profil-img{
+	border-radius: 300px;
+
+}
+
+
+
+@media (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+
+.column{
+	float: left;
+	margin: 20px;
+	padding: 30px;
+
+}
+
+.left{
+		width: 50%;
+
+
+}
+.right{
+		width: 40%;
+
+}
+
+
+
+
+.row:after {
+
+  content: "";
+  display: table;
+  clear: both;
+}
+
