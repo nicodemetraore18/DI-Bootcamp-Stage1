@@ -26,30 +26,3 @@ h1
 
 
 
-.column{
-	float: left;
-	margin: 20px;
-	padding: 30px;
-
-}
-
-.left{
-		width: 50%;
-
-
-}
-.right{
-		width: 40%;
-
-}
-
-
-
-
-.row:after {
-
-  content: "";
-  display: table;
-  clear: both;
-}
-
