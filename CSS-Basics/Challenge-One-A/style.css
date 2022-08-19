@@ -1,0 +1,28 @@
+body{
+background-color:  #F4A460 ;
+justify-content: center;
+display: flex;
+}
+#wrap{
+	border: dotted 5px;
+	width: 50%;
+	
+	margin: 0px,100px,0px,100px;
+	background-color: #FAFAD2;
+	text-align: center;
+}
+hr{
+	border: dotted;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+span{
+	font-size: 30px;
+}
+h1{
+	
+	font-style: italic;
+
+}

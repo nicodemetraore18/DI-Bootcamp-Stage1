@@ -1,0 +1,14 @@
+#wrap{
+	background-color: #00BFFF;
+	padding: 5px;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+span{
+	font-size: 30px;
+}
+h1{
+	padding: 25px;
+}

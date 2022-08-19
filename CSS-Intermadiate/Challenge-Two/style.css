@@ -1,0 +1,33 @@
+
+
+
+.col-4 {
+    width: 33%;
+    background-color: #6495ED   rgb(100, ;
+}
+
+.col-6 {
+    width: 50%;
+     background-color: #0000FF;
+}
+
+.col-12 {
+    width: 100%;
+     background-color:#00BFFF ;
+}
+
+@media (min-width: 765px) and (max-width: 960px){
+    .col-4 {
+        width: 50%;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 765px){
+    .col-4 {
+        width: 100%;
+    }
+}
